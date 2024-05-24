@@ -277,7 +277,7 @@ const double kHighsIllegalErrorValue = kHighsInf;
 const HighsInt kHighsIllegalErrorIndex = -1;
 
 // Maximum upper bound on semi-variables
-const double kMaxSemiVariableUpper = 1e5;
+const double kMaxSemiVariableUpper = 1e6;
 
 // Limit on primal values being realistic
 const double kExcessivePrimalValue = 1e25;
